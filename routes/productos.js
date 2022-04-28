@@ -7,7 +7,7 @@ const {
   obtenerProducto,
   actualizarProducto,
   borrarProducto
-} = require("../controllers/Productos");
+} = require("../controllers/productos");
 const {
   existeProductoPorId,
   existeCategoriaPorId
